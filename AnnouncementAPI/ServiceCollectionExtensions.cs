@@ -3,8 +3,19 @@ using Microsoft.OpenApi.Models;
 
 namespace AnnouncementAPI
 {
+    /// <summary>
+    /// Provides extension methods to register services for the Announcement API.
+    /// </summary>
     public static class ServiceCollectionExtensions
     {
+        /// <summary>
+        /// Adds API-related services to the specified <see cref="IServiceCollection"/>, including MVC controllers and Swagger/OpenAPI support.
+        /// </summary>
+        /// <param name="services">The <see cref="IServiceCollection"/> to which the services will be added.</param>
+        /// <returns>The updated <see cref="IServiceCollection"/> with the API services added.</returns>
+        /// <remarks>
+        /// This method registers MVC controllers, configures Swagger/OpenAPI generation, and adds endpoint API explorer support.
+        /// </remarks>
         public static IServiceCollection AddApi(this IServiceCollection services)
         {
             // Add support for MVC controllers
