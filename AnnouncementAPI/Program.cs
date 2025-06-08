@@ -1,10 +1,16 @@
+using AnnouncementAPI;
+using Microsoft.Extensions.DependencyInjection;
+using Announcement.Infrastructure;
+using Announcement.Persistence;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services
+    .AddApi()
+    .AddInfrastructure()
+    .AddPersistence();// Adds controllers, Swagger (without JWT) etc. from Web layer
 
-builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
@@ -13,6 +19,8 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 }
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 
