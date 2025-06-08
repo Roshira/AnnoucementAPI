@@ -1,12 +1,11 @@
 ﻿using Announcement.Application.Announcement.DTOs;
 using MediatR;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Announcement.Application.Announcement.Query
+namespace Announcement.Application.Announcement.Query.GetAll
 {
+    /// <summary>
+    /// Represents a query to retrieve a list of all announcements.
+    /// </summary>
     public record GetAnnouncementsListQuery() : IRequest<List<AnnouncementDto>>;
 }
