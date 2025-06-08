@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services
     .AddApi()
     .AddInfrastructure()
-    .AddPersistence();// Adds controllers, Swagger (without JWT) etc. from Web layer
+    .AddPersistence(builder.Configuration);// Adds controllers, Swagger (without JWT) etc. from Web layer
 
 
 var app = builder.Build();
