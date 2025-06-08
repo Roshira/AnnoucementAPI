@@ -17,12 +17,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Announcement.Application\Announcement.Application.csproj" />
+    <ProjectReference Include="..\Announcement.Domain\Announcement.Domain.csproj" />
     <ProjectReference Include="..\Announcement.Infrastructure\Announcement.Infrastructure.csproj" />
     <ProjectReference Include="..\Announcement.Persistence\Announcement.Persistence.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="NewFolder\" />
   </ItemGroup>
 
 </Project>

@@ -2,6 +2,7 @@ using AnnouncementAPI;
 using Microsoft.Extensions.DependencyInjection;
 using Announcement.Infrastructure;
 using Announcement.Persistence;
+using Announcement.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,7 +10,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services
     .AddApi()
     .AddInfrastructure()
-    .AddPersistence(builder.Configuration);// Adds controllers, Swagger (without JWT) etc. from Web layer
+    .AddPersistence(builder.Configuration)
+    .AddApplication();// Adds controllers, Swagger (without JWT) etc. from Web layer
 
 
 var app = builder.Build();
