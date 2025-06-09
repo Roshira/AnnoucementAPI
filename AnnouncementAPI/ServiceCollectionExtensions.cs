@@ -33,7 +33,22 @@ namespace AnnouncementAPI
                     Version = "v1"
                 });
             });
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll", policy =>
+                {
+                    // WARNING: AllowAnyOrigin() is NOT recommended in production
+                    // Instead, use .WithOrigins() and specify trusted frontend domains
 
+                    policy
+                        .WithOrigins(
+                            "http://localhost:5173"
+                        )
+                        .AllowAnyHeader()
+                        .AllowAnyMethod()
+                        .AllowCredentials(); // Required if frontend is on a different domain
+                });
+            });
             return services;
         }
     }

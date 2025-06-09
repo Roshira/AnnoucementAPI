@@ -15,7 +15,7 @@ namespace AnnouncementAPI.Controllers
     /// Provides endpoints to create, read, update, delete, and get similar announcements.
     /// </summary>
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/announcement")]
     public class AnnouncementController : ControllerBase
     {
         private readonly IMediator _mediator;
