@@ -1,0 +1,13 @@
+
+
+body {
+  font-family: 'Arial', sans-serif; 
+}
+
+.text-app-accent {
+  color: #007bff; /* Blue */
+}
+
+.text-app-accent:hover {
+  color: #0056b3; 
+}
