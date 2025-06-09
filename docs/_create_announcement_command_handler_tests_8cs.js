@@ -1,0 +1,4 @@
+var _create_announcement_command_handler_tests_8cs =
+[
+    [ "Announcement.Application.Tests.Handlers.CreateAnnouncementCommandHandlerTests", "class_announcement_1_1_application_1_1_tests_1_1_handlers_1_1_create_announcement_command_handler_tests.html", "class_announcement_1_1_application_1_1_tests_1_1_handlers_1_1_create_announcement_command_handler_tests" ]
+];

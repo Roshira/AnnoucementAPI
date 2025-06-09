@@ -1,0 +1,4 @@
+var _get_announcement_by_id_query_8cs =
+[
+    [ "Announcement.Application.Announcement.Query.GetById.GetAnnouncementByIdQuery", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_announcement_by_id_query.html", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_announcement_by_id_query" ]
+];

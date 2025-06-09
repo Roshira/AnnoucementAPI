@@ -1,0 +1,4 @@
+var namespace_announcement_1_1_application_1_1_announcement_1_1_queries =
+[
+    [ "GetSimilarAnnouncements", "namespace_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements.html", "namespace_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements" ]
+];

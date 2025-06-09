@@ -1,0 +1,4 @@
+var _get_announcements_list_query_handler_8cs =
+[
+    [ "Announcement.Application.Announcement.Query.GetAll.GetAnnouncementsListQueryHandler", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_all_1_1_get_announcements_list_query_handler.html", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_all_1_1_get_announcements_list_query_handler" ]
+];

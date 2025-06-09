@@ -1,0 +1,5 @@
+var class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_b4995c73f7bb5b2458e1262be5bc441c =
+[
+    [ "CalculateSimilarity", "class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_b4995c73f7bb5b2458e1262be5bc441c.html#aef3795f50805e35160786cbc11e4919a", null ],
+    [ "GetWords", "class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_b4995c73f7bb5b2458e1262be5bc441c.html#a93c33453e94d6663acf16d42c2d02dd8", null ]
+];

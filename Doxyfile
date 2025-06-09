@@ -991,12 +991,12 @@ WARN_LOGFILE           =
 # spaces. See also FILE_PATTERNS and EXTENSION_MAPPING
 # Note: If this tag is empty the current directory is searched.
 
-INPUT                  = ./AnnouncementApp
+INPUT                  = ./AnnouncementAPI ./Announcement.Persistence ./Announcement.Test ./Announcement.Infrastructure ./Announcement.Domain ./Announcement.Application
 
 # This tag can be used to specify the character encoding of the source files
 # that Doxygen parses. Internally Doxygen uses the UTF-8 encoding. Doxygen uses
 # libiconv (or the iconv built into libc) for the transcoding. See the libiconv
-# documentation (see:
+# documentation (see:./YourTrips.Core ./YourTrips.Application ./YourTrips.Infrastructure ./YourTrips.Web
 # https://www.gnu.org/software/libiconv/) for the list of possible encodings.
 # See also: INPUT_FILE_ENCODING
 # The default value is: UTF-8.

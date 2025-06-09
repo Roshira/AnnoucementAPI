@@ -1,0 +1,8 @@
+var class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_an26e8bfbfa1fa9c3d26e925ecb645f336 =
+[
+    [ "Handle_WithExistingId_ShouldReturnAnnouncementDto", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_an26e8bfbfa1fa9c3d26e925ecb645f336.html#a0f60c560e45072aaef24aaedd0f82b74", null ],
+    [ "Handle_WithNonExistingId_ShouldReturnNull", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_an26e8bfbfa1fa9c3d26e925ecb645f336.html#ac33d7e6a8963b3472767eb2e6de1b71f", null ],
+    [ "Setup", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_an26e8bfbfa1fa9c3d26e925ecb645f336.html#a1dd411f61c3344423304330faf927bb8", null ],
+    [ "_handler", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_an26e8bfbfa1fa9c3d26e925ecb645f336.html#a34697b5d9c533e43ce953ff30e4ae0a3", null ],
+    [ "_repositoryMock", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_an26e8bfbfa1fa9c3d26e925ecb645f336.html#a9236beb2d0abb27949e1b502db942206", null ]
+];

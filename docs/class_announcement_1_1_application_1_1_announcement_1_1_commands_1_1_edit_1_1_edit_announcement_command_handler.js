@@ -1,0 +1,6 @@
+var class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_edit_1_1_edit_announcement_command_handler =
+[
+    [ "EditAnnouncementCommandHandler", "class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_edit_1_1_edit_announcement_command_handler.html#a8ffe9c8618db968ec7339279e7e1451b", null ],
+    [ "Handle", "class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_edit_1_1_edit_announcement_command_handler.html#ab6797b978ddb8f47cd6d9f800c0172e9", null ],
+    [ "_repository", "class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_edit_1_1_edit_announcement_command_handler.html#a9a700dc4140282f8dfd632bcb73671d2", null ]
+];

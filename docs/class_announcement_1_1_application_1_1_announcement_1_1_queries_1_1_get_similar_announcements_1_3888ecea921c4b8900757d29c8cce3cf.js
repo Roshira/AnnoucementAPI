@@ -1,0 +1,5 @@
+var class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_3888ecea921c4b8900757d29c8cce3cf =
+[
+    [ "Count", "class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_3888ecea921c4b8900757d29c8cce3cf.html#a6e41b904066adf145e0653521ff6a543", null ],
+    [ "Id", "class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_3888ecea921c4b8900757d29c8cce3cf.html#a35feee5cc6db96830f7b7cf4a7b97d1f", null ]
+];

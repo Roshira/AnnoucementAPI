@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['getannouncementbyidquery_0',['GetAnnouncementByIdQuery',['../class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_announcement_by_id_query.html',1,'Announcement::Application::Announcement::Query::GetById']]],
+  ['getannouncementbyidqueryhandler_1',['GetAnnouncementByIdQueryHandler',['../class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_announcement_by_id_query_handler.html',1,'Announcement::Application::Announcement::Query::GetById']]],
+  ['getannouncementbyidqueryhandlertests_2',['GetAnnouncementByIdQueryHandlerTests',['../class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_an26e8bfbfa1fa9c3d26e925ecb645f336.html',1,'Announcement::Application::Tests::Announcement::Query::GetById']]],
+  ['getannouncementslistqueryhandler_3',['GetAnnouncementsListQueryHandler',['../class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_all_1_1_get_announcements_list_query_handler.html',1,'Announcement::Application::Announcement::Query::GetAll']]],
+  ['getannouncementslistqueryhandlertests_4',['GetAnnouncementsListQueryHandlerTests',['../class_announcement_1_1_application_1_1_tests_1_1_handlers_1_1_get_announcements_list_query_handler_tests.html',1,'Announcement::Application::Tests::Handlers']]],
+  ['getsimilarannouncementsquery_5',['GetSimilarAnnouncementsQuery',['../class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_3888ecea921c4b8900757d29c8cce3cf.html',1,'Announcement::Application::Announcement::Queries::GetSimilarAnnouncements']]],
+  ['getsimilarannouncementsqueryhandler_6',['GetSimilarAnnouncementsQueryHandler',['../class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_d00809a95c851c4a542022b2cbf946cb.html',1,'Announcement::Application::Announcement::Queries::GetSimilarAnnouncements']]],
+  ['getsimilarannouncementsqueryhandlertests_7',['GetSimilarAnnouncementsQueryHandlerTests',['../class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_queries_1_1_get_similar_announ32d717b27aeaf83e48193a28bb2915fc.html',1,'Announcement::Application::Tests::Announcement::Queries::GetSimilarAnnouncements']]]
+];

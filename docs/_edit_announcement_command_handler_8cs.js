@@ -1,0 +1,4 @@
+var _edit_announcement_command_handler_8cs =
+[
+    [ "Announcement.Application.Announcement.Commands.Edit.EditAnnouncementCommandHandler", "class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_edit_1_1_edit_announcement_command_handler.html", "class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_edit_1_1_edit_announcement_command_handler" ]
+];

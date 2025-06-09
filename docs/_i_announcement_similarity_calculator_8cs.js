@@ -1,0 +1,4 @@
+var _i_announcement_similarity_calculator_8cs =
+[
+    [ "Announcement.Domain.Interfaces.IAnnouncementSimilarityCalculator", "interface_announcement_1_1_domain_1_1_interfaces_1_1_i_announcement_similarity_calculator.html", "interface_announcement_1_1_domain_1_1_interfaces_1_1_i_announcement_similarity_calculator" ]
+];

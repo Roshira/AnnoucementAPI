@@ -1,0 +1,5 @@
+var namespace_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands =
+[
+    [ "Delete", "namespace_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_delete.html", "namespace_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_delete" ],
+    [ "Edit", "namespace_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_edit.html", "namespace_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_edit" ]
+];

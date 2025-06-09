@@ -1,0 +1,4 @@
+var class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_announcement_by_id_query =
+[
+    [ "Id", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_announcement_by_id_query.html#aedb22a33941726dda513e1c0587d0496", null ]
+];

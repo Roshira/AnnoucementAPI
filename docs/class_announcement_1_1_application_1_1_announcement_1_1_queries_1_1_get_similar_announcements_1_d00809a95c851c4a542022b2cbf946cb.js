@@ -1,0 +1,6 @@
+var class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_d00809a95c851c4a542022b2cbf946cb =
+[
+    [ "GetSimilarAnnouncementsQueryHandler", "class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_d00809a95c851c4a542022b2cbf946cb.html#a55cad3655e1897c2f9bda707b0f0a732", null ],
+    [ "Handle", "class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_d00809a95c851c4a542022b2cbf946cb.html#ac8c337c0960039ccb8a89f19dbf01d4a", null ],
+    [ "_repository", "class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_d00809a95c851c4a542022b2cbf946cb.html#ab074c5610cad3abf179a6834f95a419a", null ]
+];

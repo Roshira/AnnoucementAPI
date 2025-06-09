@@ -1,0 +1,8 @@
+var class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_delete_1_1_delete3078e62db69c358405d0202647928f68 =
+[
+    [ "Handle_WithExistingId_ShouldReturnTrue", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_delete_1_1_delete3078e62db69c358405d0202647928f68.html#a1c91b33744fb1096822916a597bb766f", null ],
+    [ "Handle_WithNonExistingId_ShouldReturnFalse", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_delete_1_1_delete3078e62db69c358405d0202647928f68.html#a9278209116c3704a4745b2b842b2f5b8", null ],
+    [ "Setup", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_delete_1_1_delete3078e62db69c358405d0202647928f68.html#aa95b785bda9be742d51bde5b6a9a99fb", null ],
+    [ "_handler", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_delete_1_1_delete3078e62db69c358405d0202647928f68.html#a480add47bb0f37a38df03f1052db2a72", null ],
+    [ "_repositoryMock", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_delete_1_1_delete3078e62db69c358405d0202647928f68.html#a1af6c9b1b56921a00d353a1c7dac760e", null ]
+];

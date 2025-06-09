@@ -1,0 +1,4 @@
+var _delete_announcement_command_handler_8cs =
+[
+    [ "Announcement.Application.Announcement.Commands.Delete.DeleteAnnouncementCommandHandler", "class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_delete_1_1_delete_announcement_command_handler.html", "class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_delete_1_1_delete_announcement_command_handler" ]
+];

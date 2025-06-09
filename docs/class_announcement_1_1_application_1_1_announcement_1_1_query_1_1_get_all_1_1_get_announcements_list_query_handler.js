@@ -1,0 +1,6 @@
+var class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_all_1_1_get_announcements_list_query_handler =
+[
+    [ "GetAnnouncementsListQueryHandler", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_all_1_1_get_announcements_list_query_handler.html#af2387d4bc2b733b05f246b1dc44eb2e8", null ],
+    [ "Handle", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_all_1_1_get_announcements_list_query_handler.html#a46eb96c189f88514290c241e2f2e9815", null ],
+    [ "_repository", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_all_1_1_get_announcements_list_query_handler.html#a63448b262359302917d91ed2f2369bd2", null ]
+];

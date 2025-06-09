@@ -1,0 +1,6 @@
+var class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_delete_1_1_delete_announcement_command_handler =
+[
+    [ "DeleteAnnouncementCommandHandler", "class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_delete_1_1_delete_announcement_command_handler.html#a6e47f4a926ae8c24ae8a40706dd6cfe3", null ],
+    [ "Handle", "class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_delete_1_1_delete_announcement_command_handler.html#af8699f6d0f7aa3e92c922487cbb906f2", null ],
+    [ "_repository", "class_announcement_1_1_application_1_1_announcement_1_1_commands_1_1_delete_1_1_delete_announcement_command_handler.html#a4aaea1c3fc09fa9f3e65fe5d84ba341c", null ]
+];

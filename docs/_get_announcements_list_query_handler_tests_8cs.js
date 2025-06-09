@@ -1,0 +1,4 @@
+var _get_announcements_list_query_handler_tests_8cs =
+[
+    [ "Announcement.Application.Tests.Handlers.GetAnnouncementsListQueryHandlerTests", "class_announcement_1_1_application_1_1_tests_1_1_handlers_1_1_get_announcements_list_query_handler_tests.html", "class_announcement_1_1_application_1_1_tests_1_1_handlers_1_1_get_announcements_list_query_handler_tests" ]
+];

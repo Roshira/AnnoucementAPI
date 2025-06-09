@@ -1,0 +1,4 @@
+var _get_similar_announcements_query_01_8cs =
+[
+    [ "Announcement.Application.Announcement.Queries.GetSimilarAnnouncements.GetSimilarAnnouncementsQuery", "class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_3888ecea921c4b8900757d29c8cce3cf.html", "class_announcement_1_1_application_1_1_announcement_1_1_queries_1_1_get_similar_announcements_1_3888ecea921c4b8900757d29c8cce3cf" ]
+];

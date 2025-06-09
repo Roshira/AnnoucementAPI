@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['announcement_2eapplication_2eassemblyinfo_2ecs_0',['Announcement.Application.AssemblyInfo.cs',['../_announcement_8_application_8_assembly_info_8cs.html',1,'']]],
+  ['announcement_2eapplication_2eglobalusings_2eg_2ecs_1',['Announcement.Application.GlobalUsings.g.cs',['../_announcement_8_application_8_global_usings_8g_8cs.html',1,'']]],
+  ['announcement_2edomain_2eassemblyinfo_2ecs_2',['Announcement.Domain.AssemblyInfo.cs',['../_announcement_8_domain_8_assembly_info_8cs.html',1,'']]],
+  ['announcement_2edomain_2eglobalusings_2eg_2ecs_3',['Announcement.Domain.GlobalUsings.g.cs',['../_announcement_8_domain_8_global_usings_8g_8cs.html',1,'']]],
+  ['announcement_2einfrastructure_2eassemblyinfo_2ecs_4',['Announcement.Infrastructure.AssemblyInfo.cs',['../_announcement_8_infrastructure_8_assembly_info_8cs.html',1,'']]],
+  ['announcement_2einfrastructure_2eglobalusings_2eg_2ecs_5',['Announcement.Infrastructure.GlobalUsings.g.cs',['../_announcement_8_infrastructure_8_global_usings_8g_8cs.html',1,'']]],
+  ['announcement_2epersistence_2eassemblyinfo_2ecs_6',['Announcement.Persistence.AssemblyInfo.cs',['../_announcement_8_persistence_8_assembly_info_8cs.html',1,'']]],
+  ['announcement_2epersistence_2eglobalusings_2eg_2ecs_7',['Announcement.Persistence.GlobalUsings.g.cs',['../_announcement_8_persistence_8_global_usings_8g_8cs.html',1,'']]],
+  ['announcement_2etest_2eassemblyinfo_2ecs_8',['Announcement.Test.AssemblyInfo.cs',['../_announcement_8_test_8_assembly_info_8cs.html',1,'']]],
+  ['announcement_2etest_2eglobalusings_2eg_2ecs_9',['Announcement.Test.GlobalUsings.g.cs',['../_announcement_8_test_8_global_usings_8g_8cs.html',1,'']]],
+  ['announcementapi_2eassemblyinfo_2ecs_10',['AnnouncementAPI.AssemblyInfo.cs',['../_announcement_a_p_i_8_assembly_info_8cs.html',1,'']]],
+  ['announcementapi_2eglobalusings_2eg_2ecs_11',['AnnouncementAPI.GlobalUsings.g.cs',['../_announcement_a_p_i_8_global_usings_8g_8cs.html',1,'']]],
+  ['announcementapi_2emvcapplicationpartsassemblyinfo_2ecs_12',['AnnouncementAPI.MvcApplicationPartsAssemblyInfo.cs',['../_announcement_a_p_i_8_mvc_application_parts_assembly_info_8cs.html',1,'']]],
+  ['announcementapp_2eassemblyinfo_2ecs_13',['AnnouncementApp.AssemblyInfo.cs',['../_announcement_app_8_assembly_info_8cs.html',1,'']]],
+  ['announcementapp_2eglobalusings_2eg_2ecs_14',['AnnouncementApp.GlobalUsings.g.cs',['../_announcement_app_8_global_usings_8g_8cs.html',1,'']]],
+  ['announcementconfig_2ecs_15',['AnnouncementConfig.cs',['../_announcement_config_8cs.html',1,'']]],
+  ['announcementcontroller_2ecs_16',['AnnouncementController.cs',['../_announcement_controller_8cs.html',1,'']]],
+  ['announcementdto_2ecs_17',['AnnouncementDto.cs',['../_announcement_dto_8cs.html',1,'']]],
+  ['announcementrepository_2ecs_18',['AnnouncementRepository.cs',['../_announcement_repository_8cs.html',1,'']]],
+  ['announcements_2ecs_19',['Announcements.cs',['../_announcements_8cs.html',1,'']]],
+  ['announcementsimilaritycalculator_2ecs_20',['AnnouncementSimilarityCalculator.cs',['../_announcement_similarity_calculator_8cs.html',1,'']]],
+  ['appdbcontext_2ecs_21',['AppDbContext.cs',['../_app_db_context_8cs.html',1,'']]],
+  ['appdbcontextmodelsnapshot_2ecs_22',['AppDbContextModelSnapshot.cs',['../_app_db_context_model_snapshot_8cs.html',1,'']]]
+];

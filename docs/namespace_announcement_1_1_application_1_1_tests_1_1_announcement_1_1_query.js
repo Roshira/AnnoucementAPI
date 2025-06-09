@@ -1,0 +1,4 @@
+var namespace_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query =
+[
+    [ "GetById", "namespace_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id.html", "namespace_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id" ]
+];

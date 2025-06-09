@@ -1,0 +1,5 @@
+var namespace_announcement_1_1_application_1_1_tests_1_1_handlers =
+[
+    [ "CreateAnnouncementCommandHandlerTests", "class_announcement_1_1_application_1_1_tests_1_1_handlers_1_1_create_announcement_command_handler_tests.html", "class_announcement_1_1_application_1_1_tests_1_1_handlers_1_1_create_announcement_command_handler_tests" ],
+    [ "GetAnnouncementsListQueryHandlerTests", "class_announcement_1_1_application_1_1_tests_1_1_handlers_1_1_get_announcements_list_query_handler_tests.html", "class_announcement_1_1_application_1_1_tests_1_1_handlers_1_1_get_announcements_list_query_handler_tests" ]
+];

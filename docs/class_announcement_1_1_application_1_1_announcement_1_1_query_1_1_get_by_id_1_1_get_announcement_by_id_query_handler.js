@@ -1,0 +1,6 @@
+var class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_announcement_by_id_query_handler =
+[
+    [ "GetAnnouncementByIdQueryHandler", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_announcement_by_id_query_handler.html#a8344c07309112519e334142309987277", null ],
+    [ "Handle", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_announcement_by_id_query_handler.html#a34b0794911283602be66909585051bb4", null ],
+    [ "_repository", "class_announcement_1_1_application_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_announcement_by_id_query_handler.html#ad6c940cd26aa17efe5c5d66cf6fc62e4", null ]
+];

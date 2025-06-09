@@ -1,0 +1,4 @@
+var _edit_announcement_command_handler_tests_8cs =
+[
+    [ "Announcement.Application.Tests.Announcement.Commands.Edit.EditAnnouncementCommandHandlerTests", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_edit_1_1_edit_announcement_command_handler_tests.html", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_commands_1_1_edit_1_1_edit_announcement_command_handler_tests" ]
+];

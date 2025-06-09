@@ -1,0 +1,4 @@
+var namespace_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id =
+[
+    [ "GetAnnouncementByIdQueryHandlerTests", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_an26e8bfbfa1fa9c3d26e925ecb645f336.html", "class_announcement_1_1_application_1_1_tests_1_1_announcement_1_1_query_1_1_get_by_id_1_1_get_an26e8bfbfa1fa9c3d26e925ecb645f336" ]
+];
