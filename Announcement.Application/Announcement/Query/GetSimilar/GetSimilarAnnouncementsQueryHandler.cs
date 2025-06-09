@@ -15,7 +15,7 @@ namespace Announcement.Application.Announcement.Queries.GetSimilarAnnouncements
     public class GetSimilarAnnouncementsQueryHandler : IRequestHandler<GetSimilarAnnouncementsQuery, List<AnnouncementDto>>
     {
         private readonly IAnnouncementRepository _repository;
-
+        private const double SimilarityThreshold = 0.1;
         /// <summary>
         /// Initializes a new instance of the <see cref="GetSimilarAnnouncementsQueryHandler"/> class.
         /// </summary>
@@ -43,19 +43,21 @@ namespace Announcement.Application.Announcement.Queries.GetSimilarAnnouncements
 
             var similarityCalculator = new AnnouncementSimilarityCalculator();
             var announcementsWithScores = otherAnnouncements
-                .Select(a => new
-                {
-                    Announcement = a,
-                    SimilarityScore = similarityCalculator.CalculateSimilarity(targetAnnouncement, a)
-                })
-                .OrderByDescending(x => x.SimilarityScore)
-                .Take(request.Count)
-                .Select(x => new AnnouncementDto(
-                    x.Announcement.Id,
-                    x.Announcement.Title,
-                    x.Announcement.Description,
-                    x.Announcement.DateAdded))
-                .ToList();
+      .Select(a => new
+      {
+          Announcement = a,
+          SimilarityScore = similarityCalculator.CalculateSimilarity(targetAnnouncement, a)
+      })
+      .Where(x => x.SimilarityScore >= SimilarityThreshold) // фільтрація
+      .OrderByDescending(x => x.SimilarityScore)
+      .Take(request.Count)
+      .Select(x => new AnnouncementDto(
+          x.Announcement.Id,
+          x.Announcement.Title,
+          x.Announcement.Description,
+          x.Announcement.DateAdded))
+      .ToList();
+
 
             return announcementsWithScores;
         }
